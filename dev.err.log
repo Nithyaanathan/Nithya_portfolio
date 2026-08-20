@@ -1,0 +1,214 @@
+[2m2:59:06 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m2:59:06 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m2:59:06 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:02:03 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:02:04 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:02:22 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mIn HTML, <p> cannot be a descendant of <p>.
+This will cause a hydration error.
+
+  ...
+    <section id="projects" className="relative z-10">
+      <div>
+      <div>
+      <div>
+      <div>
+      <ProjectDetail project={{id:"qogaf", ...}} onClose={function onClose}>
+        <AnimatePresence>
+          <PresenceChild isPresent={true} initial={undefined} custom={undefined} presenceAffectsLayout={true} mode="sync" ...>
+            <PopChild pop={false} isPresent={true} anchorX="left" anchorY="top" root={undefined}>
+              <PopChildMeasure isPresent={true} childRef={{current:null}} sizeRef={{...}} pop={false}>
+                <motion.div className="fixed inse..." initial={{opacity:0}} animate={{opacity:1}} exit={{opacity:0}} ...>
+                  <div className="fixed inse..." role="dialog" aria-modal="true" aria-label="QOGAF proj..." ...>
+                    <div>
+                    <motion.div ref={{current:null}} className="holo-edge ..." initial={{scale:0.94,y:24, ...}} ...>
+                      <div className="holo-edge ..." style={{opacity:0, ...}} ref={function}>
+                        <button>
+                        <p>
+                        <h3>
+                        <p>
+                        <div>
+                        <Section title="Overview">
+                          <div className="mt-6">
+                            <h4>
+>                           <p className="mt-2 text-sm leading-relaxed text-ink/85">
+>                             <p>
+                        ...
+
+[2m3:02:22 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m<p> cannot contain a nested <p>.
+See this log for the ancestor stack trace.
+[2m3:02:53 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:02:58 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:03:15 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:03:15 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:03:18 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:05:05 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:10:20 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:10:20 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:10:20 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:19:17 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:19:17 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:19:17 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:19:34 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:19:34 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:19:34 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:19:45 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:19:48 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mIn HTML, <p> cannot be a descendant of <p>.
+This will cause a hydration error.
+
+  ...
+    <section id="projects" className="relative z-10">
+      <div>
+      <div>
+      <div>
+      <div>
+      <ProjectDetail project={{id:"qogaf", ...}} onClose={function onClose}>
+        <AnimatePresence>
+          <PresenceChild isPresent={true} initial={undefined} custom={undefined} presenceAffectsLayout={true} mode="sync" ...>
+            <PopChild pop={false} isPresent={true} anchorX="left" anchorY="top" root={undefined}>
+              <PopChildMeasure isPresent={true} childRef={{current:null}} sizeRef={{...}} pop={false}>
+                <motion.div className="fixed inse..." initial={{opacity:0}} animate={{opacity:1}} exit={{opacity:0}} ...>
+                  <div className="fixed inse..." role="dialog" aria-modal="true" aria-label="QOGAF proj..." ...>
+                    <div>
+                    <motion.div ref={{current:null}} className="holo-edge ..." initial={{scale:0.94,y:24, ...}} ...>
+                      <div className="holo-edge ..." style={{opacity:0, ...}} ref={function}>
+                        <button>
+                        <p>
+                        <h3>
+                        <p>
+                        <div>
+                        <Section title="Overview">
+                          <div className="mt-6">
+                            <h4>
+>                           <p className="mt-2 text-sm leading-relaxed text-ink/85">
+>                             <p>
+                        ...
+
+[2m3:19:48 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m<p> cannot contain a nested <p>.
+See this log for the ancestor stack trace.
+[2m3:20:01 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:26:32 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 2 errors:
+
+[31m[PARSE_ERROR] [0mExpected corresponding JSX closing tag for 'div'.
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/components/hero/Hero.tsx:128:7 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m 16 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0mdiv[38;5;249m [0m[38;5;249mc[0m[38;5;249ml[0m[38;5;249ma[0m[38;5;249ms[0m[38;5;249ms[0m[38;5;249mN[0m[38;5;249ma[0m[38;5;249mm[0m[38;5;249me[0m[38;5;249m=[0m[38;5;249m"[0m[38;5;249mg[0m[38;5;249mr[0m[38;5;249mi[0m[38;5;249md[0m[38;5;249m [0m[38;5;249mi[0m[38;5;249mt[0m[38;5;249me[0m[38;5;249mm[0m[38;5;249ms[0m[38;5;249m-[0m[38;5;249mc[0m[38;5;249me[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249me[0m[38;5;249mr[0m[38;5;249m [0m[38;5;249mg[0m[38;5;249ma[0m[38;5;249mp[0m[38;5;249m-[0m[38;5;249m1[0m[38;5;249m0[0m[38;5;249m [0m[38;5;249ml[0m[38;5;249mg[0m[38;5;249m:[0m[38;5;249mg[0m[38;5;249mr[0m[38;5;249mi[0m[38;5;249md[0m[38;5;249m-[0m[38;5;249mc[0m[38;5;249mo[0m[38;5;249ml[0m[38;5;249ms[0m[38;5;249m-[0m[38;5;249m[[0m[38;5;249mm[0m[38;5;249mi[0m[38;5;249mn[0m[38;5;249mm[0m[38;5;249ma[0m[38;5;249mx[0m[38;5;249m([0m[38;5;249m0[0m[38;5;249m,[0m[38;5;249m1[0m[38;5;249m1[0m[38;5;249mf[0m[38;5;249mr[0m[38;5;249m)[0m[38;5;249m_[0m[38;5;249mm[0m[38;5;249mi[0m[38;5;249mn[0m[38;5;249mm[0m[38;5;249ma[0m[38;5;249mx[0m[38;5;249m([0m[38;5;249m0[0m[38;5;249m,[0m[38;5;249m9[0m[38;5;249mf[0m[38;5;249mr[0m[38;5;249m)[0m[38;5;249m][0m[38;5;249m [0m[38;5;249ml[0m[38;5;249mg[0m[38;5;249m:[0m[38;5;249mg[0m[38;5;249ma[0m[38;5;249mp[0m[38;5;249m-[0m[38;5;249m1[0m[38;5;249m4[0m[38;5;249m"[0m[38;5;249m>[0m
+ [38;5;240m    │[0m          ─┬─  
+ [38;5;240m    │[0m           ╰─── Opened here
+ [38;5;240m    │[0m 
+ [38;5;246m128 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0m[38;5;249m/[0msection[38;5;249m>[0m
+ [38;5;240m    │[0m       ───┬───  
+ [38;5;240m    │[0m          ╰───── Expected `</div>`
+[38;5;246m─────╯[0m
+
+[31m[PARSE_ERROR] [0mUnexpected token. Did you mean `{'}'}` or `&rbrace;`?
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/components/hero/Hero.tsx:130:1 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m130 │[0m [38;5;249m}[0m
+ [38;5;240m    │[0m │ 
+ [38;5;240m    │[0m ╰─ 
+[38;5;246m─────╯[0m
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mD:/portfolio/src/components/hero/Hero.tsx[39m
+      at transformWithOxc (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:4103:19)
+      at TransformPluginContext.transform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:4174:26)
+      at EnvironmentPluginContainer.transform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:30932:51)
+      at async loadAndTransform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:20671:26)
+      at async viteTransformMiddleware (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:25205:20)
+[2m3:26:32 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/hero/Hero.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:26:58 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 2 errors:
+
+[31m[PARSE_ERROR] [0mExpected corresponding JSX closing tag for 'div'.
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/components/hero/Hero.tsx:128:7 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m 16 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0mdiv[38;5;249m [0m[38;5;249mc[0m[38;5;249ml[0m[38;5;249ma[0m[38;5;249ms[0m[38;5;249ms[0m[38;5;249mN[0m[38;5;249ma[0m[38;5;249mm[0m[38;5;249me[0m[38;5;249m=[0m[38;5;249m"[0m[38;5;249mg[0m[38;5;249mr[0m[38;5;249mi[0m[38;5;249md[0m[38;5;249m [0m[38;5;249mi[0m[38;5;249mt[0m[38;5;249me[0m[38;5;249mm[0m[38;5;249ms[0m[38;5;249m-[0m[38;5;249mc[0m[38;5;249me[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249me[0m[38;5;249mr[0m[38;5;249m [0m[38;5;249mg[0m[38;5;249ma[0m[38;5;249mp[0m[38;5;249m-[0m[38;5;249m1[0m[38;5;249m0[0m[38;5;249m [0m[38;5;249ml[0m[38;5;249mg[0m[38;5;249m:[0m[38;5;249mg[0m[38;5;249mr[0m[38;5;249mi[0m[38;5;249md[0m[38;5;249m-[0m[38;5;249mc[0m[38;5;249mo[0m[38;5;249ml[0m[38;5;249ms[0m[38;5;249m-[0m[38;5;249m[[0m[38;5;249mm[0m[38;5;249mi[0m[38;5;249mn[0m[38;5;249mm[0m[38;5;249ma[0m[38;5;249mx[0m[38;5;249m([0m[38;5;249m0[0m[38;5;249m,[0m[38;5;249m1[0m[38;5;249m1[0m[38;5;249mf[0m[38;5;249mr[0m[38;5;249m)[0m[38;5;249m_[0m[38;5;249mm[0m[38;5;249mi[0m[38;5;249mn[0m[38;5;249mm[0m[38;5;249ma[0m[38;5;249mx[0m[38;5;249m([0m[38;5;249m0[0m[38;5;249m,[0m[38;5;249m9[0m[38;5;249mf[0m[38;5;249mr[0m[38;5;249m)[0m[38;5;249m][0m[38;5;249m [0m[38;5;249ml[0m[38;5;249mg[0m[38;5;249m:[0m[38;5;249mg[0m[38;5;249ma[0m[38;5;249mp[0m[38;5;249m-[0m[38;5;249m1[0m[38;5;249m4[0m[38;5;249m"[0m[38;5;249m>[0m
+ [38;5;240m    │[0m          ─┬─  
+ [38;5;240m    │[0m           ╰─── Opened here
+ [38;5;240m    │[0m 
+ [38;5;246m128 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0m[38;5;249m/[0msection[38;5;249m>[0m
+ [38;5;240m    │[0m       ───┬───  
+ [38;5;240m    │[0m          ╰───── Expected `</div>`
+[38;5;246m─────╯[0m
+
+[31m[PARSE_ERROR] [0mUnexpected token. Did you mean `{'}'}` or `&rbrace;`?
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/components/hero/Hero.tsx:130:1 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m130 │[0m [38;5;249m}[0m
+ [38;5;240m    │[0m │ 
+ [38;5;240m    │[0m ╰─ 
+[38;5;246m─────╯[0m
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mD:/portfolio/src/components/hero/Hero.tsx[39m
+      at transformWithOxc (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:4103:19)
+      at TransformPluginContext.transform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:4174:26)
+      at EnvironmentPluginContainer.transform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:30932:51)
+      at async loadAndTransform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:20671:26)
+      at async viteTransformMiddleware (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:25205:20)
+[2m3:26:58 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/hero/Hero.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:27:11 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 2 errors:
+
+[31m[PARSE_ERROR] [0mExpected corresponding JSX closing tag for 'div'.
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/components/hero/Hero.tsx:128:7 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m 16 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0mdiv[38;5;249m [0m[38;5;249mc[0m[38;5;249ml[0m[38;5;249ma[0m[38;5;249ms[0m[38;5;249ms[0m[38;5;249mN[0m[38;5;249ma[0m[38;5;249mm[0m[38;5;249me[0m[38;5;249m=[0m[38;5;249m"[0m[38;5;249mg[0m[38;5;249mr[0m[38;5;249mi[0m[38;5;249md[0m[38;5;249m [0m[38;5;249mi[0m[38;5;249mt[0m[38;5;249me[0m[38;5;249mm[0m[38;5;249ms[0m[38;5;249m-[0m[38;5;249mc[0m[38;5;249me[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249me[0m[38;5;249mr[0m[38;5;249m [0m[38;5;249mg[0m[38;5;249ma[0m[38;5;249mp[0m[38;5;249m-[0m[38;5;249m1[0m[38;5;249m0[0m[38;5;249m [0m[38;5;249ml[0m[38;5;249mg[0m[38;5;249m:[0m[38;5;249mg[0m[38;5;249mr[0m[38;5;249mi[0m[38;5;249md[0m[38;5;249m-[0m[38;5;249mc[0m[38;5;249mo[0m[38;5;249ml[0m[38;5;249ms[0m[38;5;249m-[0m[38;5;249m[[0m[38;5;249mm[0m[38;5;249mi[0m[38;5;249mn[0m[38;5;249mm[0m[38;5;249ma[0m[38;5;249mx[0m[38;5;249m([0m[38;5;249m0[0m[38;5;249m,[0m[38;5;249m1[0m[38;5;249m1[0m[38;5;249mf[0m[38;5;249mr[0m[38;5;249m)[0m[38;5;249m_[0m[38;5;249mm[0m[38;5;249mi[0m[38;5;249mn[0m[38;5;249mm[0m[38;5;249ma[0m[38;5;249mx[0m[38;5;249m([0m[38;5;249m0[0m[38;5;249m,[0m[38;5;249m9[0m[38;5;249mf[0m[38;5;249mr[0m[38;5;249m)[0m[38;5;249m][0m[38;5;249m [0m[38;5;249ml[0m[38;5;249mg[0m[38;5;249m:[0m[38;5;249mg[0m[38;5;249ma[0m[38;5;249mp[0m[38;5;249m-[0m[38;5;249m1[0m[38;5;249m4[0m[38;5;249m"[0m[38;5;249m>[0m
+ [38;5;240m    │[0m          ─┬─  
+ [38;5;240m    │[0m           ╰─── Opened here
+ [38;5;240m    │[0m 
+ [38;5;246m128 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0m[38;5;249m/[0msection[38;5;249m>[0m
+ [38;5;240m    │[0m       ───┬───  
+ [38;5;240m    │[0m          ╰───── Expected `</div>`
+[38;5;246m─────╯[0m
+
+[31m[PARSE_ERROR] [0mUnexpected token. Did you mean `{'}'}` or `&rbrace;`?
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/components/hero/Hero.tsx:130:1 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m130 │[0m [38;5;249m}[0m
+ [38;5;240m    │[0m │ 
+ [38;5;240m    │[0m ╰─ 
+[38;5;246m─────╯[0m
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mD:/portfolio/src/components/hero/Hero.tsx[39m
+      at transformWithOxc (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:4103:19)
+      at TransformPluginContext.transform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:4174:26)
+      at EnvironmentPluginContainer.transform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:30932:51)
+      at async loadAndTransform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:20671:26)
+      at async viteTransformMiddleware (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:25205:20)
+[2m3:27:11 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/hero/Hero.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:27:18 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 2 errors:
+
+[31m[PARSE_ERROR] [0mExpected corresponding JSX closing tag for 'div'.
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/components/hero/Hero.tsx:130:7 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m 15 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0mdiv[38;5;249m [0m[38;5;249mc[0m[38;5;249ml[0m[38;5;249ma[0m[38;5;249ms[0m[38;5;249ms[0m[38;5;249mN[0m[38;5;249ma[0m[38;5;249mm[0m[38;5;249me[0m[38;5;249m=[0m[38;5;249m"[0m[38;5;249mp[0m[38;5;249mo[0m[38;5;249mi[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249me[0m[38;5;249mr[0m[38;5;249m-[0m[38;5;249me[0m[38;5;249mv[0m[38;5;249me[0m[38;5;249mn[0m[38;5;249mt[0m[38;5;249ms[0m[38;5;249m-[0m[38;5;249mn[0m[38;5;249mo[0m[38;5;249mn[0m[38;5;249me[0m[38;5;249m [0m[38;5;249mm[0m[38;5;249mx[0m[38;5;249m-[0m[38;5;249ma[0m[38;5;249mu[0m[38;5;249mt[0m[38;5;249mo[0m[38;5;249m [0m[38;5;249mw[0m[38;5;249m-[0m[38;5;249mf[0m[38;5;249mu[0m[38;5;249ml[0m[38;5;249ml[0m[38;5;249m [0m[38;5;249mm[0m[38;5;249ma[0m[38;5;249mx[0m[38;5;249m-[0m[38;5;249mw[0m[38;5;249m-[0m[38;5;249m[[0m[38;5;249m1[0m[38;5;249m6[0m[38;5;249m0[0m[38;5;249m0[0m[38;5;249mp[0m[38;5;249mx[0m[38;5;249m][0m[38;5;249m [0m[38;5;249mp[0m[38;5;249mx[0m[38;5;249m-[0m[38;5;249m6[0m[38;5;249m [0m[38;5;249mp[0m[38;5;249mt[0m[38;5;249m-[0m[38;5;249m2[0m[38;5;249m4[0m[38;5;249m [0m[38;5;249mm[0m[38;5;249md[0m[38;5;249m:[0m[38;5;249mp[0m[38;5;249mx[0m[38;5;249m-[0m[38;5;249m1[0m[38;5;249m0[0m[38;5;249m [0m[38;5;249ml[0m[38;5;249mg[0m[38;5;249m:[0m[38;5;249mp[0m[38;5;249mx[0m[38;5;249m-[0m[38;5;249m1[0m[38;5;249m4[0m[38;5;249m"[0m[38;5;249m>[0m
+ [38;5;240m    │[0m        ─┬─  
+ [38;5;240m    │[0m         ╰─── Opened here
+ [38;5;240m    │[0m 
+ [38;5;246m130 │[0m [38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m [0m[38;5;249m<[0m[38;5;249m/[0msection[38;5;249m>[0m
+ [38;5;240m    │[0m       ───┬───  
+ [38;5;240m    │[0m          ╰───── Expected `</div>`
+[38;5;246m─────╯[0m
+
+[31m[PARSE_ERROR] [0mUnexpected token. Did you mean `{'}'}` or `&rbrace;`?
+     [38;5;246m╭[0m[38;5;246m─[0m[38;5;246m[[0m src/components/hero/Hero.tsx:132:1 [38;5;246m][0m
+     [38;5;246m│[0m
+ [38;5;246m132 │[0m [38;5;249m}[0m
+ [38;5;240m    │[0m │ 
+ [38;5;240m    │[0m ╰─ 
+[38;5;246m─────╯[0m
+[39m
+  Plugin: [35mvite:oxc[39m
+  File: [36mD:/portfolio/src/components/hero/Hero.tsx[39m
+      at transformWithOxc (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:4103:19)
+      at TransformPluginContext.transform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:4174:26)
+      at EnvironmentPluginContainer.transform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:30932:51)
+      at async loadAndTransform (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:20671:26)
+      at async viteTransformMiddleware (file:///D:/portfolio/node_modules/vite/dist/node/chunks/node.js:25205:20)
+[2m3:27:18 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22m[vite] Failed to reload /src/components/hero/Hero.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)
+[2m3:29:06 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:29:16 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:29:29 pm[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [2m[console.error] [22mMaximum update depth exceeded. This can happen when a component calls setState inside useEffect, but useEffect either doesn't have a dependency array, or one of the dependencies changes on every render.
+[2m3:31:30 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:31:30 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2m3:31:30 pm[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mTHREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
